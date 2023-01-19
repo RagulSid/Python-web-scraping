@@ -5,7 +5,7 @@ from selenium.common.exceptions import NoSuchElementException
 import csv
 import time
 
-# fetch all java related questions and answers
+# fetch all weight related questions and answers
 search = "weight"
 
 options = webdriver.ChromeOptions()
