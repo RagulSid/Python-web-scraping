@@ -1,0 +1,5 @@
+1. transformers -> pip install transformers
+2. selenium
+3. chrome driver
+4. tensorflow
+5. 
