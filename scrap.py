@@ -16,7 +16,7 @@ driver.get('https://www.google.com')
 driver.implicitly_wait(10)
 driver.find_element(By.NAME,"q").send_keys(search + Keys.ENTER)
 
-limit = 5 # no of questions to be fetched
+limit = 3 # no of questions to be fetched
 counter = 1
 qno=1
 header = ["question","answer"]
